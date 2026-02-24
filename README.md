@@ -51,7 +51,7 @@ Aktif membantu komunitas tech untuk membuat sesuatu yang bermakna!
 
 ## 🌈 Fun Stuff  
 
-🛹 **Hobi**: Skating, gaming, dan jadi *night owl* dengan playlist lo-fi.  
+🛹 **Hobi**: Tidur, Ngopi, Gaming, dan jadi *night owl* dengan playlist lo-fi.  
 
 💬 **Ngobrol yuk!** Saya suka berbagi ide tentang teknologi, *trending frameworks*, atau bahkan keseharian!
 
