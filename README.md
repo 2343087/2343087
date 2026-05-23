@@ -1,67 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Chornelius%20Delon&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Crafting%20Digital%20Experiences.%20Merging%20Logic%20%26%20Aesthetics.&descAlignY=65&descSize=14" width="100%"/>
-
-</div>
-
-<div align="center">
-
-**[ Portofolio ]** • **[ LinkedIn ]** • **[ Email ](mailto:2343087@gmail.com)**
-
-</div>
-
----
-
-## ⚡ The Story
-
-Hi, gue Delon. 
-
-Gue percaya kalau *software* yang bagus itu nggak cuma soal *code* yang bisa di- *compile* tanpa *error*. Lebih dari itu, sebuah *app* harus punya *vibe*, fungsionalitas yang solid, dan *user experience* yang mulus. Berada di persimpangan antara **Teknologi Informasi (Logic)** dan **Desain Komunikasi Visual (Aesthetics)**, fokus gue adalah nge-build ekosistem digital yang nggak cuma *works*, tapi juga *looks damn good*.
-
-Saat ini, gue lagi nyelesaiin studi gue di Samarinda sambil ngulik berbagai arsitektur web modern dan integrasi *hardware-software*. Dari ngebangun platform komunitas kopi (*WadahNgopi*), eksplorasi *Enterprise System* masa depan (*ERP-NEWERA*), sampai riset *real-time monitoring* berbasis IoT.
-
-Gue lebih suka nulis kode malam hari, ditemani lo-fi, dan ambisi buat bikin sesuatu yang *impactful*.
-
----
-
-## 🛠️ What I Bring to the Table
-
-Gue nggak fanatik sama satu bahasa, gue milih *tools* terbaik buat nyelesaiin masalah. Tapi kalau ditanya *comfort zone*, ini *stack* yang biasa gue pake buat *nge-crafting* produk:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Chornelius%20Delon&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20%7C%20Building%20systems%20that%20make%20sense&descAlignY=65&descSize=14" width="100%"/>
 
 <br>
 
+**[ Portfolio ]** • **[ LinkedIn ]** • **[ Email ](mailto:2343087@gmail.com)**
+
+</div>
+
+---
+
+## ⚡ About Me
+
+Halo, panggil aja Delon.
+
+Gue mahasiswa Teknik Informatika semester 6 yang *base*-nya di Samarinda. Fokus utama gue ada di *software development*—dari ngerancang arsitektur *backend* yang solid sampai bikin *user interface* yang mulus di sisi *frontend*. 
+
+Buat gue, nulis kode itu bukan sekadar bikin program yang bisa jalan tanpa *error*. Tantangan aslinya adalah gimana ngebangun sistem yang *scalable*, rapi, dan gampang di- *maintain* buat jangka panjang. Gue selalu tertarik buat eksplor *tech stack* modern dan nerapin *best practices* di setiap baris kode yang gue tulis.
+
+Di luar jam ngampus atau *coding*, lo kemungkinan bakal nemuin gue lagi asik dengerin lo-fi pas tengah malem atau sekadar cari referensi teknologi baru.
+
+---
+
+## 🛠️ Tech Arsenal
+
+Gue fleksibel dan selalu terbuka buat adaptasi sama teknologi baru, tapi ini *stack* utama yang jadi *comfort zone* gue buat *development*:
+
 <div align="center">
 
-### **The Core Engine**
+### **Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **The Architecture & UI**
+### **Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **The Vault**
+### **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Focus & Milestones
-
-Gue selalu punya *project* yang lagi jalan. Beberapa hal yang lagi intens gue kerjain sekarang:
-
-* 🏗️ **Premium Custom CMS & Portfolio:** Nge-build ruang pameran digital gue sendiri buat nge- *showcase* karya IT dan DKV dengan standar industri.
-* 📡 **IoT & Edge Processing:** Fokus nyelesaiin riset *"Sistem Monitoring Kualitas Udara Berbasis IoT Menggunakan ESP32"*.
-* 🌐 **Exploring the Future:** Ngulik kemungkinan integrasi Web3 (NFT/Crypto auth) ke dalam *web apps* yang udah ada.
-
----
-
-## 📈 Behind the Scenes
+## 📈 Stats & Activity
 
 <div align="center">
 
@@ -75,8 +61,8 @@ Gue selalu punya *project* yang lagi jalan. Beberapa hal yang lagi intens gue ke
 
 <div align="center">
 
-*"Good design is obvious. Great design is transparent. Great code makes both possible."*
+*"Writing code that humans can understand."*
 
-📫 **Hit me up:** [2343087@gmail.com](mailto:2343087@gmail.com) | Samarinda, Indonesia 🇮🇩
+📫 **Hit me up:** [2343087@gmail.com](mailto:2343087@gmail.com)
 
 </div>
