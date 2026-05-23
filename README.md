@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Chornelius%20Delon&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20%7C%20Building%20systems%20that%20make%20sense&descAlignY=65&descSize=14" width="100%"/>
+<img alt="Chornelius Delon (Delong / Elong) - delonchornelius 2343087" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Chornelius%20Delon&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20%7C%20Building%20systems%20that%20make%20sense&descAlignY=65&descSize=14" width="100%"/>
 
 <br>
 
@@ -12,11 +12,11 @@
 
 ## ⚡ About Me
 
-Halo, panggil aja Delon.
+Halo, kenalin gue **Chornelius Delon** (orang-orang biasa manggil gue **Delon**, **Delong**, atau **Elong**). 
 
-Gue mahasiswa Teknik Informatika semester 6 yang *base*-nya di Samarinda. Fokus utama gue ada di *software development*—dari ngerancang arsitektur *backend* yang solid sampai bikin *user interface* yang mulus di sisi *frontend*. 
+Gue adalah mahasiswa Teknik Informatika semester 6 yang berbasis di Samarinda. Di dunia digital dan *open-source*, lo bisa nemuin jejak gue lewat *username* **delonchornelius** atau identitas **2343087**. Fokus utama gue ada di *software engineering*—mulai dari ngerancang arsitektur *backend* yang solid sampai ngebangun *user interface* yang mulus di sisi *frontend*. 
 
-Buat gue, nulis kode itu bukan sekadar bikin program yang bisa jalan tanpa *error*. Tantangan aslinya adalah gimana ngebangun sistem yang *scalable*, rapi, dan gampang di- *maintain* buat jangka panjang. Gue selalu tertarik buat eksplor *tech stack* modern dan nerapin *best practices* di setiap baris kode yang gue tulis.
+Buat gue, nulis kode itu bukan sekadar bikin program yang bisa jalan tanpa *error*. Tantangan aslinya adalah gimana ngebangun sistem yang *scalable*, rapi, dan gampang di- *maintain* buat jangka panjang. Gue selalu tertarik buat eksplor *tech stack* modern dan nerapin *best practices* di setiap baris kode yang **Chornelius** tulis.
 
 Di luar jam ngampus atau *coding*, lo kemungkinan bakal nemuin gue lagi asik dengerin lo-fi pas tengah malem atau sekadar cari referensi teknologi baru.
 
@@ -51,9 +51,9 @@ Gue fleksibel dan selalu terbuka buat adaptasi sama teknologi baru, tapi ini *st
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=2343087&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d14&ring_color=7c6af7&title_color=e96af7&icon_color=6af7d4&text_color=f0eeff" />
+<img alt="Chornelius Delon GitHub Stats 2343087" height="160em" src="https://github-readme-stats.vercel.app/api?username=2343087&show_icons=true&hide_border=true&theme=radical&bg_color=0d0d14&ring_color=7c6af7&title_color=e96af7&icon_color=6af7d4&text_color=f0eeff" />
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2343087&layout=compact&hide_border=true&theme=radical&bg_color=0d0d14&title_color=e96af7&text_color=f0eeff" />
+<img alt="delonchornelius Top Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2343087&layout=compact&hide_border=true&theme=radical&bg_color=0d0d14&title_color=e96af7&text_color=f0eeff" />
 
 </div>
 
