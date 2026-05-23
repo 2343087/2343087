@@ -1,77 +1,67 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Delong%20_%20&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Coding%20today%2C%20conquering%20the%20world%20tomorrow&descAlignY=62&descSize=16" width="100%"/>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Hey%2C+I'm+Chornelius+Delon+%F0%9F%91%8B;PHP+%7C+Python+%7C+Laravel+%7C+React.js;Mahasiswa+with+big+dreams+%E2%9C%A8)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Chornelius%20Delon&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Crafting%20Digital%20Experiences.%20Merging%20Logic%20%26%20Aesthetics.&descAlignY=65&descSize=14" width="100%"/>
 
 </div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220" alt="coding gif" />
-
-### `> whoami`
-
-```js
-const delong = {
-  name    : "Chornelius Delon",
-  alias   : "Delong",
-  status  : "Mahasiswa w/ big dreams ✨",
-  location: "Samarinda, Kalimantan Timur 🇮🇩",
-  contact : "2343087@gmail.com",
-  stack   : ["PHP", "Python", "Laravel", "React.js"],
-  hobbies : ["ngopi ☕", "gaming 🎮", "lo-fi playlist 🎧"],
-  vibe    : "night owl 🦉 who codes past midnight",
-  goal    : "full-stack mastery → open source → world domination 🌏"
-};
-```
-
-<br clear="right"/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🧩 Tech Stack
 
 <div align="center">
 
-**Languages**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Tools & Environment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
+**[ Portofolio ]** • **[ LinkedIn ]** • **[ Email ](mailto:2343087@gmail.com)**
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## ⚡ The Story
 
-## 📈 GitHub Stats
+Hi, gue Delon. 
+
+Gue percaya kalau *software* yang bagus itu nggak cuma soal *code* yang bisa di- *compile* tanpa *error*. Lebih dari itu, sebuah *app* harus punya *vibe*, fungsionalitas yang solid, dan *user experience* yang mulus. Berada di persimpangan antara **Teknologi Informasi (Logic)** dan **Desain Komunikasi Visual (Aesthetics)**, fokus gue adalah nge-build ekosistem digital yang nggak cuma *works*, tapi juga *looks damn good*.
+
+Saat ini, gue lagi nyelesaiin studi gue di Samarinda sambil ngulik berbagai arsitektur web modern dan integrasi *hardware-software*. Dari ngebangun platform komunitas kopi (*WadahNgopi*), eksplorasi *Enterprise System* masa depan (*ERP-NEWERA*), sampai riset *real-time monitoring* berbasis IoT.
+
+Gue lebih suka nulis kode malam hari, ditemani lo-fi, dan ambisi buat bikin sesuatu yang *impactful*.
+
+---
+
+## 🛠️ What I Bring to the Table
+
+Gue nggak fanatik sama satu bahasa, gue milih *tools* terbaik buat nyelesaiin masalah. Tapi kalau ditanya *comfort zone*, ini *stack* yang biasa gue pake buat *nge-crafting* produk:
+
+<br>
+
+<div align="center">
+
+### **The Core Engine**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **The Architecture & UI**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **The Vault**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Current Focus & Milestones
+
+Gue selalu punya *project* yang lagi jalan. Beberapa hal yang lagi intens gue kerjain sekarang:
+
+* 🏗️ **Premium Custom CMS & Portfolio:** Nge-build ruang pameran digital gue sendiri buat nge- *showcase* karya IT dan DKV dengan standar industri.
+* 📡 **IoT & Edge Processing:** Fokus nyelesaiin riset *"Sistem Monitoring Kualitas Udara Berbasis IoT Menggunakan ESP32"*.
+* 🌐 **Exploring the Future:** Ngulik kemungkinan integrasi Web3 (NFT/Crypto auth) ke dalam *web apps* yang udah ada.
+
+---
+
+## 📈 Behind the Scenes
 
 <div align="center">
 
@@ -81,81 +71,12 @@ const delong = {
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=2343087&theme=radical&hide_border=true&background=0d0d14&ring=7c6af7&fire=e96af7&currStreakLabel=6af7d4)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB GOALS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🚀 What I'm Chasing
-
-```
-[01] Full-Stack Mastery ━━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░░░  68%
-     ↳ Eksplorasi proyek full-stack development
-     ↳ Menyempurnakan best practices & clean code
-
-[02] Open Source Contribution ━━━━━━━━━━━━━━━━░░░░░░░░░░░  55%
-     ↳ Aktif bantu komunitas tech
-     ↳ Build something meaningful bareng orang-orang keren
-```
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    FUN STUFF                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🌈 Fun Stuff
-
-> 🛹 **Hobi:** Tidur · Ngopi · Gaming · Jadi *night owl* sama lo-fi playlist  
-> 💬 **Ngobrol yuk!** Gue seneng ngobrolin teknologi, *trending frameworks*, atau hal random sehari-hari
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   LET'S CONNECT                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2343087@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2343087)
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+*"Good design is obvious. Great design is transparent. Great code makes both possible."*
 
-**🔥 Siap Gas Pol! 🔥**  
-`// made with ☕ & sleepless nights · samarinda, kaltim · 2026`
-
-![Profile Views](https://komarev.com/ghpvc/?username=2343087&color=7c6af7&style=flat-square&label=Profile+Views)
+📫 **Hit me up:** [2343087@gmail.com](mailto:2343087@gmail.com) | Samarinda, Indonesia 🇮🇩
 
 </div>
